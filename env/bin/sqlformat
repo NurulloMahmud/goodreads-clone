@@ -1,4 +1,4 @@
-#!/home/nurulloh/Desktop/projects/goodreads-clone/env/bin/python3
+#!/Users/smartfleetllc/Desktop/goodreads-clone/env/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
